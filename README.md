@@ -1,3 +1,5 @@
+### Automatically start/stop Music while playing CS2 using the Game State Integration
+### Also lower the Volume while Spectating, Warmup and the Buy period...
 ## Install libs
 ```
 pip install winrt.windows.media.control winrt.windows.foundation pycaw
